@@ -1,2 +1,4 @@
 # odin-recipes
-This repositoru is part of Odin-Project curriculum
+This repository is part of Odin-Project curriculum. 
+
+Making a simple website about recipe
